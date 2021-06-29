@@ -9,7 +9,7 @@
 
 Olá, me chamo César Augusto.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas focado no desenvolvimentode soluções web Front-End e Back-End.
+Sou estudante de Análise e Desenvolvimento de Sistemas focado no desenvolvimentode soluções web Front-End.
 
 ## Este projeto
 
